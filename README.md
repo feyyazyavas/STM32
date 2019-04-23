@@ -1,1 +1,1 @@
-# STM32F4_Projects
+# STM32F4 MPU6050 Project
