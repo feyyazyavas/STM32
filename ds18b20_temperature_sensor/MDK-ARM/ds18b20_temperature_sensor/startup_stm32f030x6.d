@@ -1,0 +1,1 @@
+ds18b20_temperature_sensor\startup_stm32f030x6.o: startup_stm32f030x6.s
